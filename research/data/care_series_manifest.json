@@ -1,0 +1,34 @@
+{
+  "series_version": "1.0.0",
+  "generated_utc": "2026-02-15T22:10:00Z",
+  "coverage_status": "partial",
+  "docs": [
+    "/Users/vessy/bernedoodle/research/06_Care_Series_Home.md",
+    "/Users/vessy/bernedoodle/research/care_series/01_Early_Stage_Development_Puppy_0-6m.md",
+    "/Users/vessy/bernedoodle/research/care_series/02_Adolescent_Development_6-18m.md",
+    "/Users/vessy/bernedoodle/research/care_series/03_Adult_Care_18m-7y.md",
+    "/Users/vessy/bernedoodle/research/care_series/04_Senior_Care_7y_plus.md",
+    "/Users/vessy/bernedoodle/research/care_series/05_Care_Food_Diet_Playbook.md",
+    "/Users/vessy/bernedoodle/research/care_series/06_Illness_Disease_and_Red_Flags.md",
+    "/Users/vessy/bernedoodle/research/care_series/07_Preventive_Calendar_and_Routines.md",
+    "/Users/vessy/bernedoodle/research/care_series/08_Vet_Visit_Preparation.md",
+    "/Users/vessy/bernedoodle/research/care_series/09_Evidence_Confidence_and_Gaps.md",
+    "/Users/vessy/bernedoodle/research/care_series/appendices/A_Food_Transition_Template.md",
+    "/Users/vessy/bernedoodle/research/care_series/appendices/B_Symptom_Triage_Checklist.md",
+    "/Users/vessy/bernedoodle/research/care_series/appendices/C_Weekly_Care_Checklists.md",
+    "/Users/vessy/bernedoodle/research/care_series/appendices/D_Vaccine_Parasite_Dental_Tracker.md"
+  ],
+  "source_dependencies": [
+    "SRC-PMID-40187143",
+    "SRC-GUIDE-AAHA-CANINE-VACCINATION",
+    "SRC-GUIDE-AAHA-NUTRITION-WEIGHT",
+    "SRC-GUIDE-AAHA-DENTAL-CARE",
+    "SRC-GUIDE-WSAVA-GLOBAL-NUTRITION",
+    "SRC-GUIDE-CAPC-PARASITE-CONTROL"
+  ],
+  "known_limits": [
+    "Direct Bernedoodle literature is sparse in this vault.",
+    "Coverage status remains partial due to blocked CAB Abstracts and Scopus/Web of Science in the current environment.",
+    "General canine guideline fallback is used in many recommendations and is explicitly labeled."
+  ]
+}

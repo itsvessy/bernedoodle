@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/sources/SRC-GUIDE-AAHA-NUTRITION-WEIGHT.md",
+                "file": "research/care_series/01_Early_Stage_Development_Puppy_0-6m.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SRC-GUIDE-AAHA-NUTRITION-WEIGHT"
+              "title": "01_Early_Stage_Development_Puppy_0-6m"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research/sources/SRC-GUIDE-AAHA-NUTRITION-WEIGHT.md",
+                "file": "research/care_series/01_Early_Stage_Development_Puppy_0-6m.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SRC-GUIDE-AAHA-NUTRITION-WEIGHT"
+              "title": "Backlinks for 01_Early_Stage_Development_Puppy_0-6m"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research/sources/SRC-GUIDE-AAHA-NUTRITION-WEIGHT.md",
+                "file": "research/care_series/01_Early_Stage_Development_Puppy_0-6m.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SRC-GUIDE-AAHA-NUTRITION-WEIGHT"
+              "title": "Outgoing links from 01_Early_Stage_Development_Puppy_0-6m"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research/sources/SRC-GUIDE-AAHA-NUTRITION-WEIGHT.md",
+                "file": "research/care_series/01_Early_Stage_Development_Puppy_0-6m.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SRC-GUIDE-AAHA-NUTRITION-WEIGHT"
+              "title": "Outline of 01_Early_Stage_Development_Puppy_0-6m"
             }
           }
         ]
@@ -185,6 +185,25 @@
   },
   "active": "cf6805ef9b977ed8",
   "lastOpenFiles": [
+    "research/sources/SRC-GUIDE-AAHA-NUTRITION-WEIGHT.md",
+    "research/data/care_series_manifest.json",
+    "research/data/care_claims_index.csv",
+    "research/care_series/appendices/D_Vaccine_Parasite_Dental_Tracker.md",
+    "research/care_series/appendices/C_Weekly_Care_Checklists.md",
+    "research/care_series/appendices/B_Symptom_Triage_Checklist.md",
+    "research/care_series/appendices/A_Food_Transition_Template.md",
+    "research/care_series/09_Evidence_Confidence_and_Gaps.md",
+    "research/care_series/08_Vet_Visit_Preparation.md",
+    "research/care_series/07_Preventive_Calendar_and_Routines.md",
+    "research/care_series/06_Illness_Disease_and_Red_Flags.md",
+    "research/care_series/05_Care_Food_Diet_Playbook.md",
+    "research/care_series/04_Senior_Care_7y_plus.md",
+    "research/care_series/03_Adult_Care_18m-7y.md",
+    "research/care_series/02_Adolescent_Development_6-18m.md",
+    "research/care_series/01_Early_Stage_Development_Puppy_0-6m.md",
+    "research/06_Care_Series_Home.md",
+    "research/care_series/appendices",
+    "research/care_series",
     "research/sources/SRC-GUIDE-AAHA-DENTAL-CARE.md",
     "research/sources/SRC-GUIDE-AAHA-CANINE-VACCINATION.md",
     "research/05_Evidence_Gaps.md",
