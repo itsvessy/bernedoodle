@@ -1,0 +1,26 @@
+{
+  "coverage_status": "partial",
+  "run_date_utc": "2026-02-15T21:42:17Z",
+  "mandatory_sources": [
+    "PubMed",
+    "Europe PMC",
+    "Crossref",
+    "Google Scholar",
+    "CAB Abstracts",
+    "Scopus or Web of Science",
+    "WSAVA",
+    "AAHA",
+    "CAPC"
+  ],
+  "blocked_sources": [
+    {
+      "source": "CAB Abstracts",
+      "reason": "No index access in current environment"
+    },
+    {
+      "source": "Scopus/Web of Science",
+      "reason": "No index access in current environment"
+    }
+  ],
+  "completeness_note": "Run is partial because two mandatory indexes were inaccessible; core Bernedoodle and guideline sources were still captured."
+}

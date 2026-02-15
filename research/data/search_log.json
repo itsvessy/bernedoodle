@@ -1,0 +1,83 @@
+{
+  "run_id": "RUN-2026-02-15-BERNE-01",
+  "run_date_utc": "2026-02-15T21:42:17Z",
+  "queries": [
+    {
+      "query_id": "Q_BERNE_1_PUBMED",
+      "database": "PubMed",
+      "query_text": "(\"bernedoodle\"[All Fields] OR \"berne-doodle\"[All Fields] OR (\"bernese mountain dog\"[All Fields] AND poodle[All Fields] AND (cross*[All Fields] OR hybrid*[All Fields] OR mix*[All Fields])))",
+      "hits": 1,
+      "screened": 1,
+      "included": 1,
+      "excluded": 0,
+      "sort_mode": "relevance",
+      "result_window": "all"
+    },
+    {
+      "query_id": "Q_BERNE_2_PUBMED",
+      "database": "PubMed",
+      "query_text": "((\"berner\"[All Fields] OR \"boyero de berna\"[All Fields] OR \"bouvier bernois\"[All Fields] OR \"berner sennenhund\"[All Fields]) AND (\"poodle\"[All Fields] OR \"caniche\"[All Fields] OR \"barbon\"[All Fields] OR \"pudel\"[All Fields]) AND (cross*[All Fields] OR hybrid*[All Fields] OR \"croise\"[All Fields] OR \"cruza\"[All Fields] OR \"kreuzung\"[All Fields] OR \"mestizo\"[All Fields]))",
+      "hits": 0,
+      "screened": 0,
+      "included": 0,
+      "excluded": 0,
+      "sort_mode": "relevance",
+      "result_window": "all"
+    },
+    {
+      "query_id": "Q_BERNE_1_CROSSREF",
+      "database": "Crossref",
+      "query_text": "query=bernedoodle",
+      "hits": 0,
+      "screened": 0,
+      "included": 0,
+      "excluded": 0,
+      "sort_mode": "relevance",
+      "result_window": "top20"
+    },
+    {
+      "query_id": "Q_BERNE_1_SCHOLAR",
+      "database": "Google Scholar",
+      "query_text": "\"bernedoodle\" OR \"berne-doodle\" dog health",
+      "hits": 50,
+      "screened": 50,
+      "included": 0,
+      "excluded": 50,
+      "sort_mode": "relevance",
+      "result_window": "top50"
+    },
+    {
+      "query_id": "Q_GUIDE_WSAVA_SITE",
+      "database": "WSAVA site search",
+      "query_text": "site:wsava.org dog guideline vaccination nutrition dental",
+      "hits": 8,
+      "screened": 8,
+      "included": 1,
+      "excluded": 7,
+      "sort_mode": "relevance",
+      "result_window": "top20"
+    },
+    {
+      "query_id": "Q_GUIDE_AAHA_SITE",
+      "database": "AAHA site search",
+      "query_text": "site:aaha.org canine guideline vaccination nutrition dental parasite",
+      "hits": 16,
+      "screened": 16,
+      "included": 3,
+      "excluded": 13,
+      "sort_mode": "relevance",
+      "result_window": "top20"
+    },
+    {
+      "query_id": "Q_GUIDE_CAPC_SITE",
+      "database": "CAPC site search",
+      "query_text": "site:capcvet.org dog parasite guideline",
+      "hits": 9,
+      "screened": 9,
+      "included": 1,
+      "excluded": 8,
+      "sort_mode": "relevance",
+      "result_window": "top20"
+    }
+  ]
+}

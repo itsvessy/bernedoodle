@@ -1,0 +1,13 @@
+{
+  "run_id": "RUN-2026-02-15-BERNE-01",
+  "run_date_utc": "2026-02-15T21:42:17Z",
+  "identified": 62,
+  "duplicates_removed": 11,
+  "screened_title_abstract": 51,
+  "excluded_title_abstract": 42,
+  "full_text_assessed": 9,
+  "excluded_full_text": 3,
+  "included_bernedoodle_studies": 1,
+  "included_core_guidelines": 5,
+  "total_included": 6
+}
