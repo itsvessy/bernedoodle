@@ -3,7 +3,7 @@ note_id: CARE-STAGE-01
 title: Early Stage Development - Puppy 0-6 Months
 type: care-stage
 created_utc: 2026-02-15T22:10:00Z
-updated_utc: 2026-02-15T22:10:00Z
+updated_utc: 2026-02-15T22:55:00Z
 tags:
   - bernedoodle
   - puppy
@@ -15,45 +15,57 @@ audience: pet owners
 # Early Stage Development (0-6 months)
 
 > [!summary]
-> Focus on safe socialization, routine building, growth monitoring, and preventive veterinary care.
+> In this stage, structure matters most: predictable sleep, toileting rhythm, controlled socialization, and gentle handling practice.
 
 > [!warning]
-> Do not over-exercise large-breed puppies. If limping, persistent diarrhea, breathing difficulty, or fainting appears, seek veterinary care promptly.
+> Persistent diarrhea, repeated vomiting, breathing effort, fainting, severe lethargy, or inability to keep water down needs urgent veterinary assessment.
 
-## Milestones and Daily Priorities
-| Domain | Owner Priority | Frequency |
-|---|---|---|
-| Sleep and recovery | Provide structured quiet periods and crate rest | Daily |
-| House training | Frequent bathroom breaks and reward timing | Daily |
-| Socialization | Controlled exposure to people, sounds, surfaces | Daily/weekly |
-| Growth tracking | Weekly weight and body condition check | Weekly |
+## Stage Goals
+| Goal | Practical Target |
+|---|---|
+| Security and routine | Consistent sleep, meal, potty, and training times |
+| Body awareness and handling | Daily short grooming, paw, ear, mouth handling sessions |
+| Safe socialization | Short positive exposures to people, places, sounds, surfaces |
+| Recovery protection | Frequent naps and low-impact movement |
 
-## Feeding Cadence and Growth Monitoring
-- Use an age-appropriate complete puppy diet and monitor body condition, not just body weight.
-- Split food into multiple meals each day in early puppyhood.
-- Avoid abrupt food changes.
+## Example Daily Rhythm (Template)
+| Time Block | Owner Task |
+|---|---|
+| Morning | Toilet break, meal, short training, rest |
+| Midday | Toilet break, socialization exposure, chew/enrichment, nap |
+| Afternoon | Meal, short walk/sniff session, gentle handling practice |
+| Evening | Toilet break, calm play, final meal, wind-down |
+| Night | Final toilet break, uninterrupted sleep window |
 
-## Exercise Limits
-- Prioritize short, low-impact sessions and enrichment over sustained high-impact running.
-- Increase activity gradually as joints and coordination mature.
+## House Training Workflow
+1. Track accidents by time and trigger.
+2. Increase trip frequency in the highest-risk windows.
+3. Reward correct behavior immediately.
+4. Do not punish accidents; adjust schedule instead.
 
-## Early Warning Signs
-- Poor growth, persistent vomiting, prolonged diarrhea, collapse episodes, or unusual breathing effort require veterinary evaluation.
+## Socialization Checklist (Controlled)
+| Exposure Type | Target |
+|---|---|
+| People | Different ages, clothing, movement styles |
+| Sound | Vacuum, traffic, doorbells, recordings at low volume |
+| Surfaces | Grass, concrete, gravel, indoor floor types |
+| Vet-like handling | Collar hold, brief restraint, mouth and ear touch |
+
+## Growth Monitoring
+- Weigh weekly at the same time of day.
+- Log appetite, stool quality, and energy trend together.
+- Record any abrupt change lasting more than 24 hours.
 
 ## Related Notes
 - [[research/care_series/05_Care_Food_Diet_Playbook]]
 - [[research/care_series/06_Illness_Disease_and_Red_Flags]]
 - [[research/care_series/07_Preventive_Calendar_and_Routines]]
-
-## Source Notes
-- [[research/sources/SRC-GUIDE-AAHA-CANINE-VACCINATION]]
-- [[research/sources/SRC-GUIDE-AAHA-NUTRITION-WEIGHT]]
 - [[research/sources/SRC-PMID-40187143]]
 
 ## Claim Annotations
 | claim_id | evidence_type | confidence | source_record_ids | last_reviewed_utc |
 |---|---|---|---|---|
-| CC-010 | General canine guideline (fallback) | High | SRC-GUIDE-AAHA-NUTRITION-WEIGHT;SRC-GUIDE-WSAVA-GLOBAL-NUTRITION | 2026-02-15T22:10:00Z |
-| CC-011 | General canine guideline (fallback) | High | SRC-GUIDE-AAHA-CANINE-VACCINATION;SRC-GUIDE-CAPC-PARASITE-CONTROL | 2026-02-15T22:10:00Z |
-| CC-012 | Evidence gap / owner-vet decision | Gap | SRC-PMID-40187143 | 2026-02-15T22:10:00Z |
-| CC-013 | Bernedoodle-specific evidence | Low | SRC-PMID-40187143 | 2026-02-15T22:10:00Z |
+| CC-010 | Evidence gap / owner-vet decision | Gap | SRC-PMID-40187143 | 2026-02-15T22:55:00Z |
+| CC-011 | Evidence gap / owner-vet decision | Gap | SRC-PMID-40187143 | 2026-02-15T22:55:00Z |
+| CC-012 | Evidence gap / owner-vet decision | Gap | SRC-PMID-40187143 | 2026-02-15T22:55:00Z |
+| CC-013 | Bernedoodle-specific evidence | Low | SRC-PMID-40187143 | 2026-02-15T22:55:00Z |

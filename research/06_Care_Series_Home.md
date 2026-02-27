@@ -3,7 +3,7 @@ note_id: CARE-HOME-06
 title: Bernedoodle Care Series Home
 type: care-series-index
 created_utc: 2026-02-15T22:10:00Z
-updated_utc: 2026-02-15T22:10:00Z
+updated_utc: 2026-02-15T22:55:00Z
 tags:
   - bernedoodle
   - care-series
@@ -15,16 +15,16 @@ audience: pet owners
 # Bernedoodle Care Series Home
 
 > [!summary]
-> This series provides stage-based Bernedoodle care guidance for owners. Bernedoodle-specific evidence is used where available; otherwise general canine guideline fallback is clearly labeled.
+> This is a Bernedoodle-only care series. Practical workflows are provided for daily use, but direct Bernedoodle research evidence is limited.
 
 > [!warning]
-> This is educational guidance, not diagnosis or treatment. For urgent symptoms, contact your veterinarian or emergency clinic immediately.
+> Use this as an owner planning guide, not as diagnosis or treatment. For urgent signs, contact an emergency veterinarian immediately.
 
 ## How To Use This Series
-1. Start with your dog's life stage note.
-2. Use the diet and illness playbooks for daily decisions.
-3. Use appendices for trackers and checklists.
-4. Review evidence labels before acting on a recommendation.
+1. Open your dog's current life-stage note first.
+2. Use the food and illness playbooks for day-to-day decisions.
+3. Use appendices as reusable trackers.
+4. Check each claim label before applying advice.
 
 ## Series Navigation
 | Topic | Note |
@@ -39,24 +39,18 @@ audience: pet owners
 | Vet visit preparation | [[research/care_series/08_Vet_Visit_Preparation]] |
 | Evidence confidence and gaps | [[research/care_series/09_Evidence_Confidence_and_Gaps]] |
 
-## Evidence Label Legend
+## Evidence Label Legend (Bernedoodle-only)
 | Label | Meaning |
 |---|---|
-| Bernedoodle-specific evidence | Directly supported by current Bernedoodle-including literature. |
-| General canine guideline (fallback) | Supported by AAHA/WSAVA/CAPC guidance, not Bernedoodle-specific. |
-| Evidence gap / owner-vet decision | Limited direct evidence; use shared decision-making with your veterinarian. |
+| Bernedoodle-specific evidence | Supported directly by a Bernedoodle-including study in this vault. |
+| Evidence gap / owner-vet decision | No strong direct Bernedoodle evidence for this claim; use shared decision-making with your veterinarian. |
 
 ## Source Notes
 - [[research/sources/SRC-PMID-40187143]]
-- [[research/sources/SRC-GUIDE-AAHA-CANINE-VACCINATION]]
-- [[research/sources/SRC-GUIDE-AAHA-NUTRITION-WEIGHT]]
-- [[research/sources/SRC-GUIDE-AAHA-DENTAL-CARE]]
-- [[research/sources/SRC-GUIDE-WSAVA-GLOBAL-NUTRITION]]
-- [[research/sources/SRC-GUIDE-CAPC-PARASITE-CONTROL]]
 
 ## Claim Annotations
 | claim_id | evidence_type | confidence | source_record_ids | last_reviewed_utc |
 |---|---|---|---|---|
-| CC-001 | Bernedoodle-specific evidence | Low | SRC-PMID-40187143 | 2026-02-15T22:10:00Z |
-| CC-002 | General canine guideline (fallback) | High | SRC-GUIDE-AAHA-CANINE-VACCINATION;SRC-GUIDE-WSAVA-GLOBAL-NUTRITION;SRC-GUIDE-CAPC-PARASITE-CONTROL | 2026-02-15T22:10:00Z |
-| CC-003 | Evidence gap / owner-vet decision | Gap | SRC-PMID-40187143 | 2026-02-15T22:10:00Z |
+| CC-001 | Bernedoodle-specific evidence | Low | SRC-PMID-40187143 | 2026-02-15T22:55:00Z |
+| CC-002 | Evidence gap / owner-vet decision | Gap | SRC-PMID-40187143 | 2026-02-15T22:55:00Z |
+| CC-003 | Evidence gap / owner-vet decision | Gap | SRC-PMID-40187143 | 2026-02-15T22:55:00Z |

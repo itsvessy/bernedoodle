@@ -1,6 +1,6 @@
 {
-  "series_version": "1.0.0",
-  "generated_utc": "2026-02-15T22:10:00Z",
+  "series_version": "1.1.0",
+  "generated_utc": "2026-02-15T22:55:00Z",
   "coverage_status": "partial",
   "docs": [
     "/Users/vessy/bernedoodle/research/06_Care_Series_Home.md",
@@ -19,16 +19,11 @@
     "/Users/vessy/bernedoodle/research/care_series/appendices/D_Vaccine_Parasite_Dental_Tracker.md"
   ],
   "source_dependencies": [
-    "SRC-PMID-40187143",
-    "SRC-GUIDE-AAHA-CANINE-VACCINATION",
-    "SRC-GUIDE-AAHA-NUTRITION-WEIGHT",
-    "SRC-GUIDE-AAHA-DENTAL-CARE",
-    "SRC-GUIDE-WSAVA-GLOBAL-NUTRITION",
-    "SRC-GUIDE-CAPC-PARASITE-CONTROL"
+    "SRC-PMID-40187143"
   ],
   "known_limits": [
-    "Direct Bernedoodle literature is sparse in this vault.",
-    "Coverage status remains partial due to blocked CAB Abstracts and Scopus/Web of Science in the current environment.",
-    "General canine guideline fallback is used in many recommendations and is explicitly labeled."
+    "This version enforces Bernedoodle-only evidence scope.",
+    "Direct Bernedoodle evidence is limited to one Bernedoodle-including retrospective cohort.",
+    "Most practical recommendations are labeled as evidence-gap owner-vet decisions."
   ]
 }
